@@ -17,11 +17,13 @@ Follow these instructions to set up and run the script:
 If you haven't already cloned this repository, do so using:
 
 git clone https://github.com/your_username/your_repository.git
+
 cd your_repository
 
 ### 2. Edit the script menu.sh
 
 SSH_DIRECTORY="/scripts_location/" (Change this is mandatory to use)
+
 SCRIPT_NAME="menu.sh" (Change this is optional)
 
 ### 3. Make the Script Executable
