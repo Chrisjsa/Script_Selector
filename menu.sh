@@ -8,9 +8,6 @@ cd $SSH_DIRECTORY
 # Get the list of .sh files in the set directory
 FILES=(*.sh)
 
-# Exclude the current script from the list
-# FILES=(${FILES[@]/./})  # Remove the script itself (menu.sh)
-
 # Display the menu
 echo "Select Script"
 
