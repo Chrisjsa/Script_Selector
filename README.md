@@ -37,6 +37,7 @@ chmod +x menu.sh
 To use the script from anywhere, move it to a directory that is included in your `PATH`, such as `~/bin`:
 
 mkdir -p ~/bin
+
 mv menu.sh ~/bin/
 
 ### 5. Ensure `~/bin` is in Your PATH
